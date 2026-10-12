@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="UDP_stock_broadcast/UDP_stock_broadcast.vcxproj" Id="87506194-f68e-481b-84da-c13519956c9c" />
+</Solution>

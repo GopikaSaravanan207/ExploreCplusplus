@@ -1,0 +1,32 @@
+
+# Visual Studio
+.vs/
+**/.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+ipch/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.ipch
+*.idb
+*.pch
+*.tlog
+*.recipe
+*.db
+*.db-shm
+*.db-wal
